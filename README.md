@@ -112,6 +112,11 @@ Finalmente, você precisa estilizar o div que você criou para que as partícula
   background-position: 50% 50%;
 }
 ```
+
+## Veja como ficou entrando no link abaixo:
+```sh
+https://jonatasperaza.github.io/My-particles-js/
+```
 </div>
 
 <img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
